@@ -47,6 +47,9 @@ container.ondragend = function (event) {
     makeDrag(getDragPoints());
 }
 container.draggable = true;
+container.addEventListener("touchstart", container.ondragstart, false);
+container.addEventListener("touchend", container.ondragend, false);
+
 
 let makeDrag = (opt) => {
     let {x, y} = opt;
