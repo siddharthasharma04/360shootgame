@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/360shootgame/precache-manifest.8563f26b452f6013bf846b3aef7de77a.js"
+  "/360shootgame/precache-manifest.d96f1f064dc301fc8cbae666f79daae2.js"
 );
 
 self.addEventListener('message', (event) => {
