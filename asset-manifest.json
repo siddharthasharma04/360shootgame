@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.46e9808e.chunk.css",
-    "main.js": "/static/js/main.be77a13e.chunk.js",
-    "main.js.map": "/static/js/main.be77a13e.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.cc4d95a0.js",
-    "runtime~main.js.map": "/static/js/runtime~main.cc4d95a0.js.map",
-    "static/js/2.4a625cae.chunk.js": "/static/js/2.4a625cae.chunk.js",
-    "static/js/2.4a625cae.chunk.js.map": "/static/js/2.4a625cae.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.08f9606ca0c98301e217bd7211733d67.js": "/precache-manifest.08f9606ca0c98301e217bd7211733d67.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.46e9808e.chunk.css.map": "/static/css/main.46e9808e.chunk.css.map"
+    "main.css": "/360shootgame/static/css/main.46e9808e.chunk.css",
+    "main.js": "/360shootgame/static/js/main.be77a13e.chunk.js",
+    "main.js.map": "/360shootgame/static/js/main.be77a13e.chunk.js.map",
+    "runtime~main.js": "/360shootgame/static/js/runtime~main.ed844507.js",
+    "runtime~main.js.map": "/360shootgame/static/js/runtime~main.ed844507.js.map",
+    "static/js/2.4a625cae.chunk.js": "/360shootgame/static/js/2.4a625cae.chunk.js",
+    "static/js/2.4a625cae.chunk.js.map": "/360shootgame/static/js/2.4a625cae.chunk.js.map",
+    "index.html": "/360shootgame/index.html",
+    "precache-manifest.8563f26b452f6013bf846b3aef7de77a.js": "/360shootgame/precache-manifest.8563f26b452f6013bf846b3aef7de77a.js",
+    "service-worker.js": "/360shootgame/service-worker.js",
+    "static/css/main.46e9808e.chunk.css.map": "/360shootgame/static/css/main.46e9808e.chunk.css.map"
   }
 }
